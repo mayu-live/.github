@@ -1,3 +1,3 @@
 Mayu is a real-time server-side component-based VDOM rendering framework written in Ruby.
 
-More to come shortly...
+Find it here: https://github.com/mayu-live/framework
